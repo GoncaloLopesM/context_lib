@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="contextAwareness:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80d5a3aa-8756-4333-a568-88e93ed2d540" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bMJMHCtb8Ai3f1ow0iialJrgSV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80d5a3aa-8756-4333-a568-88e93ed2d540" name="Default Changelist" comment="" />
+      <created>1588435979033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588435979033</updated>
+      <workItem from="1588435983006" duration="2920000" />
+      <workItem from="1588524698206" duration="954000" />
+      <workItem from="1590251013150" duration="1461000" />
+      <workItem from="1590429537368" duration="1419000" />
+      <workItem from="1590516843969" duration="1666000" />
+      <workItem from="1590586833556" duration="714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Project_Structure" timestamp="1590587552904">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/-1920.3.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1590587552904" />
+    <state x="517" y="269" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1588436964980">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="517" y="269" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.864@0.0.1536.864" timestamp="1588436964980" />
+    <state x="499" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588437077326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1588437077326" />
+    <state x="686" y="199" key="FileChooserDialogImpl" timestamp="1590587550061">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="686" y="199" key="FileChooserDialogImpl/-1920.3.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1590587550061" />
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590251749238" />
+    <state x="311" y="9" key="SettingsEditor" timestamp="1590516789168">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="311" y="9" key="SettingsEditor/-1920.3.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1590516789168" />
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588437104999" />
+    <state x="581" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1590586833131">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="581" y="320" key="com.intellij.ide.util.TipDialog/-1920.3.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1590586833131" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1588524699250" />
+    <state x="209" y="53" key="new project wizard" timestamp="1590251871498">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1590251871498" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="contextAwareness:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="contextAwareness.jar">
+      <element id="module-output" name="contextAwareness" />
+    </root>
+  </artifact>
+</component>
